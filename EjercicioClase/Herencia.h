@@ -1,0 +1,8 @@
+#ifndef HERENCIA_H_INCLUDED
+#define HERENCIA_H_INCLUDED
+
+
+class
+
+
+#endif // HERENCIA_H_INCLUDED

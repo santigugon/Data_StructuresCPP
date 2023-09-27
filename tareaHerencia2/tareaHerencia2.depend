@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1684525156 source:c:\users\santi\onedrive\documents\programacion\c++2\tareaherencia2\main.cpp
+	<iostream>
+	"Shape.cpp"
+	"Circle.cpp"
+	"Rectangle.h"
+	"Polygon.h"
+
+1684470228 c:\users\santi\onedrive\documents\programacion\c++2\tareaherencia2\shape.cpp
+	<iostream>
+	<string>
+	"Shape.h"
+
+1684470137 c:\users\santi\onedrive\documents\programacion\c++2\tareaherencia2\shape.h
+	"iostream"
+
+1684271597 c:\users\santi\onedrive\documents\programacion\c++2\tareaherencia2\circle.cpp
+	"iostream"
+	"Circle.h"
+
+1684271597 c:\users\santi\onedrive\documents\programacion\c++2\tareaherencia2\circle.h
+	"Shape.h"
+
+1684469654 source:c:\users\santi\onedrive\documents\programacion\c++2\tareaherencia2\rectangle.cpp
+	"Rectangle.h"
+	"Shape.h"
+
+1684525189 c:\users\santi\onedrive\documents\programacion\c++2\tareaherencia2\rectangle.h
+	"Shape.h"
+
+1684468892 c:\users\santi\onedrive\documents\programacion\c++2\tareaherencia2\rectangle.cpp
+	"Rectangle.h"
+	"Shape.h"
+
+1684470590 source:c:\users\santi\onedrive\documents\programacion\c++2\tareaherencia2\polygon.cpp
+	"Polygon.h"
+	"Shape.h"
+
+1684470496 c:\users\santi\onedrive\documents\programacion\c++2\tareaherencia2\polygon.h
+	"Shape.h"
+

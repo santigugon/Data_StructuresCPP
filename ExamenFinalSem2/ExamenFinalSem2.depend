@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1686710448 source:c:\users\santi\onedrive\documents\programacion\c++2\examenfinalsem2\contenido.cpp
+	"contenido.h"
+	<iostream>
+
+1686710608 c:\users\santi\onedrive\documents\programacion\c++2\examenfinalsem2\contenido.h
+	<string>
+	"Calificacion.h"
+
+1686711204 c:\users\santi\onedrive\documents\programacion\c++2\examenfinalsem2\calificacion.h
+
+1686712032 source:c:\users\santi\onedrive\documents\programacion\c++2\examenfinalsem2\main.cpp
+	<iostream>
+	"Calificacion.h"
+	"Contenido.h"
+	"Pelicula.h"
+	"Serie.h"
+	"MiContenido.h"
+	<vector>
+
+1686711591 source:c:\users\santi\onedrive\documents\programacion\c++2\examenfinalsem2\calificacion.cpp
+	"calificacion.h"
+	<iostream>
+
+1686712062 source:c:\users\santi\onedrive\documents\programacion\c++2\examenfinalsem2\pelicula.cpp
+	"pelicula.h"
+	<iostream>
+
+1686710469 c:\users\santi\onedrive\documents\programacion\c++2\examenfinalsem2\pelicula.h
+	"Contenido.h"
+	"Calificacion.h"
+	<string>
+
+1686710555 source:c:\users\santi\onedrive\documents\programacion\c++2\examenfinalsem2\serie.cpp
+	"Serie.h"
+	<iostream>
+
+1686710502 c:\users\santi\onedrive\documents\programacion\c++2\examenfinalsem2\serie.h
+	"Contenido.h"
+	"Calificacion.h"
+
+1686712030 c:\users\santi\onedrive\documents\programacion\c++2\examenfinalsem2\micontenido.h
+	"Contenido.h"
+

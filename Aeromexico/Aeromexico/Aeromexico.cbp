@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Aeromexico" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/herenciaTarea2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/herenciaTarea2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Aeropuerto.cpp" />
+		<Unit filename="Aeropuerto.h" />
+		<Unit filename="BuscadorDeVuelos.cpp" />
+		<Unit filename="BuscadorDeVuelos.h" />
+		<Unit filename="CalidadDeVuelo.cpp" />
+		<Unit filename="CalidadDeVuelo.h" />
+		<Unit filename="CheckIn.cpp" />
+		<Unit filename="CheckIn.h" />
+		<Unit filename="Cliente.cpp" />
+		<Unit filename="Cliente.h" />
+		<Unit filename="ClienteEmpleado.cpp" />
+		<Unit filename="ClienteEmpleado.h" />
+		<Unit filename="Empleado.cpp" />
+		<Unit filename="Empleado.h" />
+		<Unit filename="Imprimible.h" />
+		<Unit filename="InformeDeVentasDeUnVuelo.cpp" />
+		<Unit filename="InformeDeVentasDeUnVuelo.h" />
+		<Unit filename="Pasajero.cpp" />
+		<Unit filename="Pasajero.h" />
+		<Unit filename="Persona.cpp" />
+		<Unit filename="Persona.h" />
+		<Unit filename="Reserva.cpp" />
+		<Unit filename="Reserva.h" />
+		<Unit filename="SalaVip.cpp" />
+		<Unit filename="SalaVip.h" />
+		<Unit filename="SalaVipReserva.cpp" />
+		<Unit filename="SalaVipReserva.h" />
+		<Unit filename="TarjetaEmbarque.cpp" />
+		<Unit filename="TarjetaEmbarque.h" />
+		<Unit filename="Tripulacion.cpp" />
+		<Unit filename="Tripulacion.h" />
+		<Unit filename="Vuelo.cpp" />
+		<Unit filename="Vuelo.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

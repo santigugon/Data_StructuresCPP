@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1685122075 source:c:\users\santi\onedrive\documents\programacion\c++2\herenciatarea2\envio.cpp
+	"envio.h"
+
+1685122117 c:\users\santi\onedrive\documents\programacion\c++2\herenciatarea2\envio.h
+	<string>
+
+1685118118 source:c:\users\santi\onedrive\documents\programacion\c++2\herenciatarea2\paquete.cpp
+	"paquete.h"
+	"Envio.h"
+
+1685118075 c:\users\santi\onedrive\documents\programacion\c++2\herenciatarea2\paquete.h
+	"envio.h"
+
+1685118351 source:c:\users\santi\onedrive\documents\programacion\c++2\herenciatarea2\sobre.cpp
+	"sobre.h"
+
+1685118323 c:\users\santi\onedrive\documents\programacion\c++2\herenciatarea2\sobre.h
+	"envio.h"
+
+1685121639 source:c:\users\santi\onedrive\documents\programacion\c++2\herenciatarea2\main.cpp
+	<iostream>
+	"envio.h"
+	"paquete.h"
+	"sobre.h"
+

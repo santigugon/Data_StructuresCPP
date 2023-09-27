@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1685765363 source:c:\users\santi\onedrive\documents\programacion\c++2\fraccion\main.cpp
+	<iostream>
+	"Fraccion.h"
+
+1685765649 c:\users\santi\onedrive\documents\programacion\c++2\fraccion\fraccion.h
+
+1685765854 source:c:\users\santi\onedrive\documents\programacion\c++2\fraccion\fraccion.cpp
+	<iostream>
+	<cmath>
+	"Fraccion.h"
+	<string>
+

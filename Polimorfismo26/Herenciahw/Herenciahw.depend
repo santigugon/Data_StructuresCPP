@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1684442532 source:c:\users\ronys\onedrive\documentos\universidad\pensamiento compu\herenciahw\shape.cpp
+	"Shape.h"
+
+1684875527 c:\users\ronys\onedrive\documentos\universidad\pensamiento compu\herenciahw\shape.h
+	<iostream>
+
+1684875700 source:c:\users\ronys\onedrive\documentos\universidad\pensamiento compu\herenciahw\main.cpp
+	<iostream>
+	"Shape.h"
+	"Circle.h"
+	"Rectangle.h"
+	"Polygon.h"
+
+1684875527 c:\users\ronys\onedrive\documentos\universidad\pensamiento compu\herenciahw\circle.h
+	"Shape.h"
+
+1684875539 source:c:\users\ronys\onedrive\documentos\universidad\pensamiento compu\herenciahw\circle.cpp
+	"Circle.h"
+
+1684875638 source:c:\users\ronys\onedrive\documentos\universidad\pensamiento compu\herenciahw\rectangle.cpp
+	"Rectangle.h"
+
+1684875638 c:\users\ronys\onedrive\documentos\universidad\pensamiento compu\herenciahw\rectangle.h
+	"Shape.h"
+
+1684472447 c:\users\ronys\onedrive\documentos\universidad\pensamiento compu\herenciahw\polygon.h
+	"Shape.h"
+
+1684472722 source:c:\users\ronys\onedrive\documentos\universidad\pensamiento compu\herenciahw\polygon.cpp
+	"Polygon.h"
+
+1685075641 source:c:\users\posion04\desktop\c++\herenciahw\herenciahw\circle.cpp
+	"Circle.h"
+
+1685075641 c:\users\posion04\desktop\c++\herenciahw\herenciahw\circle.h
+	"Shape.h"
+
+1685075642 c:\users\posion04\desktop\c++\herenciahw\herenciahw\shape.h
+	<iostream>
+
+1685075641 source:c:\users\posion04\desktop\c++\herenciahw\herenciahw\rectangle.cpp
+	"Rectangle.h"
+
+1685075642 c:\users\posion04\desktop\c++\herenciahw\herenciahw\rectangle.h
+	"Shape.h"
+
+1685075642 source:c:\users\posion04\desktop\c++\herenciahw\herenciahw\shape.cpp
+	"Shape.h"
+

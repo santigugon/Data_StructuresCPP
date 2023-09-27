@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1686948594 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\main.cpp
+	<iostream>
+	"Vuelo.h"
+	"Aeropuerto.h"
+	"Pasajero.h"
+	"Reserva.h"
+	"Persona.h"
+	"Tripulacion.h"
+	<vector>
+	"BuscadorDeVuelos.h"
+	"ClienteEmpleado.h"
+	"InformeDeVentasDeUnVuelo.h"
+	"checkIn.h"
+	"TarjetaEmbarque.h"
+	"CalidadDeVuelo.h"
+	"SalaVip.h"
+	"SalaVipReserva.h"
+
+1686637093 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\aeropuerto.cpp
+	<iostream>
+	<string>
+	"Aeropuerto.h"
+
+1686945170 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\pasajero.cpp
+	<iostream>
+	<string>
+	"Pasajero.h"
+	"Reserva.h"
+
+1686635149 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\persona.cpp
+	<iostream>
+	<string>
+	"Persona.h"
+
+1686941694 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\reserva.cpp
+	<iostream>
+	<string>
+	"Reserva.h"
+
+1686530599 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\tripulacion.cpp
+	<iostream>
+	<string>
+	"Tripulacion.h"
+
+1686944389 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\vuelo.cpp
+	<string>
+	<iostream>
+	"Vuelo.h"
+
+1686888296 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\vuelo.h
+	"Imprimible.h"
+	<iostream>
+	<string>
+
+1686947854 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\aeropuerto.h
+	<iostream>
+	<string>
+	"Imprimible.h"
+
+1686632308 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\persona.h
+	<iostream>
+	<string>
+
+1686529627 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\tripulacion.h
+	<iostream>
+	<string>
+	"Persona.h"
+
+1686889009 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\pasajero.h
+	"Persona.h"
+	"Imprimible.h"
+	"Vuelo.h"
+	<iostream>
+	<string>
+
+1686888777 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\reserva.h
+	<iostream>
+	<string>
+	"Vuelo.h"
+	"Pasajero.h"
+
+1686922098 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\buscadordevuelos.cpp
+	<iostream>
+	"BuscadorDeVuelos.h"
+	<string>
+	<vector>
+	<cctype>
+
+1686546079 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\buscadordevuelos.h
+	"Vuelo.h"
+	<iostream>
+	<string>
+	<vector>
+
+1686631398 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\imprimible.h
+
+1686636110 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\cliente.cpp
+	"Cliente.h"
+
+1686635168 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\cliente.h
+	<iostream>
+	<string>
+	"Persona.h"
+
+1686635233 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\empleado.cpp
+	"Empleado.h"
+
+1686635099 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\empleado.h
+	<string>
+	"Persona.h"
+
+1686636621 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\clienteempleado.cpp
+	"ClienteEmpleado.h"
+
+1686634833 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\clienteempleado.h
+	"Empleado.h"
+	"Cliente.h"
+
+1686897298 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\informedeventasdeunvuelo.cpp
+	"informeDeVentasDeUnVuelo.h"
+	<iostream>
+
+1686897308 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\informedeventasdeunvuelo.h
+	"Imprimible.h"
+	<string>
+
+1686948589 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\calidaddevuelo.cpp
+	<iostream>
+	"CalidadDeVuelo.h"
+
+1686896573 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\calidaddevuelo.h
+	"Imprimible.h"
+	<string>
+
+1686894698 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\checkin.cpp
+	<iostream>
+	"checkIn.h"
+
+1686894624 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\checkin.h
+	"Imprimible.h"
+
+1686894412 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\tarjetaembarque.cpp
+	<iostream>
+	"tarjetaembarque.h"
+
+1686894395 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\tarjetaembarque.h
+	"Pasajero.h"
+	"Reserva.h"
+	"Vuelo.h"
+	"Imprimible.h"
+
+1686923292 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\salavip.cpp
+	"SalaVip.h"
+
+1686923292 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\salavip.h
+	<string>
+
+1686923292 source:c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\salavipreserva.cpp
+	"SalaVipReserva.h"
+
+1686923292 c:\users\santi\onedrive\documents\programacion\c++2\proyectofinalsem2\salavipreserva.h
+	"SalaVip.h"
+	"Pasajero.h"
+	<string>
+	<vector>
+

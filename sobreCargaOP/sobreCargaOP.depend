@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1685676306 source:c:\users\santi\onedrive\documents\programacion\c++2\sobrecargaop\main.cpp
+	<iostream>
+	"RECT.h"
+	"Polar.h"
+
+1685676347 c:\users\santi\onedrive\documents\programacion\c++2\sobrecargaop\rect.h
+	<cmath>
+	"Polar.h"
+
+1685675959 source:c:\users\santi\onedrive\documents\programacion\c++2\sobrecargaop\rect.cpp
+	<iostream>
+	<cmath>
+	"RECT.h"
+
+1685676076 source:c:\users\santi\onedrive\documents\programacion\c++2\sobrecargaop\polar.cpp
+	<iostream>
+	"Polar.h"
+
+1685676086 c:\users\santi\onedrive\documents\programacion\c++2\sobrecargaop\polar.h
+

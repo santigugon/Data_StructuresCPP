@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1684262611 source:c:\users\pablo\documents\herenciashape\shape.cpp
+	<iostream>
+	<string>
+	"Shape.h"
+
+1684262704 c:\users\pablo\documents\herenciashape\shape.h
+	<iostream>
+	<string>
+
+1684263079 source:c:\users\pablo\documents\herenciashape\main.cpp
+	<iostream>
+	"Shape.h"
+	"Circle.h"
+
+1684263014 c:\users\pablo\documents\herenciashape\circle.h
+	"Shape.h"
+
+1684263089 source:c:\users\pablo\documents\herenciashape\circle.cpp
+	"iostream"
+	"Circle.h"
+
+1684526796 source:c:\users\pablo\documents\herenciashape\rectangle.cpp
+	<iostream>
+	"Rectangle.h"
+
+1684526796 c:\users\pablo\documents\herenciashape\rectangle.h
+	"Shape.h"
+
+1684875307 source:c:\users\valele\documents\bloqc++2\herenciashape - polimorfismo\circle.cpp
+	"iostream"
+	"Circle.h"
+
+1685130626 c:\users\valele\documents\bloqc++2\herenciashape - polimorfismo\circle.h
+	"Shape.h"
+
+1684875031 c:\users\valele\documents\bloqc++2\herenciashape - polimorfismo\shape.h
+	<iostream>
+	<string>
+
+1684875656 source:c:\users\valele\documents\bloqc++2\herenciashape - polimorfismo\main.cpp
+	<iostream>
+	"Shape.h"
+	"Circle.h"
+	"Rectangle.h"
+
+1684875656 c:\users\valele\documents\bloqc++2\herenciashape - polimorfismo\rectangle.h
+	"Shape.h"
+
+1684875667 source:c:\users\valele\documents\bloqc++2\herenciashape - polimorfismo\rectangle.cpp
+	<iostream>
+	"Rectangle.h"
+
+1684874865 source:c:\users\valele\documents\bloqc++2\herenciashape - polimorfismo\shape.cpp
+	<iostream>
+	<string>
+	"Shape.h"
+
+1685677918 source:c:\users\santi\onedrive\documents\programacion\c++2\herenciashape - polimorfismo\circle.cpp
+	"iostream"
+	"Circle.h"
+
+1685677879 c:\users\santi\onedrive\documents\programacion\c++2\herenciashape - polimorfismo\circle.h
+	"Shape.h"
+
+1685677245 c:\users\santi\onedrive\documents\programacion\c++2\herenciashape - polimorfismo\shape.h
+	<iostream>
+	<string>
+
+1685678012 source:c:\users\santi\onedrive\documents\programacion\c++2\herenciashape - polimorfismo\main.cpp
+	<iostream>
+	"Shape.h"
+	"Circle.h"
+	"Rectangle.h"
+	"Polygon.h"
+
+1685475579 c:\users\santi\onedrive\documents\programacion\c++2\herenciashape - polimorfismo\rectangle.h
+	"Shape.h"
+
+1685475622 source:c:\users\santi\onedrive\documents\programacion\c++2\herenciashape - polimorfismo\rectangle.cpp
+	<iostream>
+	"Rectangle.h"
+
+1685677949 source:c:\users\santi\onedrive\documents\programacion\c++2\herenciashape - polimorfismo\shape.cpp
+	<iostream>
+	<string>
+	"Shape.h"
+
+1685678039 source:c:\users\santi\onedrive\documents\programacion\c++2\herenciashape - polimorfismo\polygon.cpp
+	<iostream>
+	"Polygon.h"
+	"Shape.h"
+
+1685678038 c:\users\santi\onedrive\documents\programacion\c++2\herenciashape - polimorfismo\polygon.h
+	"Shape.h"
+

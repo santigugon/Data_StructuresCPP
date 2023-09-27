@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1684262611 source:c:\users\pablo\documents\herenciashape\shape.cpp
+	<iostream>
+	<string>
+	"Shape.h"
+
+1684262704 c:\users\pablo\documents\herenciashape\shape.h
+	<iostream>
+	<string>
+
+1684263079 source:c:\users\pablo\documents\herenciashape\main.cpp
+	<iostream>
+	"Shape.h"
+	"Circle.h"
+
+1684263014 c:\users\pablo\documents\herenciashape\circle.h
+	"Shape.h"
+
+1684271597 source:c:\users\santi\downloads\herenciashape\herenciashape\circle.cpp
+	"iostream"
+	"Circle.h"
+
+1684271597 c:\users\santi\downloads\herenciashape\herenciashape\circle.h
+	"Shape.h"
+
+1684271598 c:\users\santi\downloads\herenciashape\herenciashape\shape.h
+	<iostream>
+	<string>
+
+1684271597 source:c:\users\santi\downloads\herenciashape\herenciashape\main.cpp
+	<iostream>
+	"Shape.h"
+	"Circle.h"
+
+1684271598 source:c:\users\santi\downloads\herenciashape\herenciashape\shape.cpp
+	<iostream>
+	<string>
+	"Shape.h"
+

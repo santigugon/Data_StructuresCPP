@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1684547266 source:c:\users\santi\onedrive\documents\programacion\c++2\ejercicioclase\vendedor.cpp
+	"Vendedor.h"
+
+1684530003 c:\users\santi\onedrive\documents\programacion\c++2\ejercicioclase\vendedor.h
+	"Empleado.h"
+	<string>
+
+1684530068 c:\users\santi\onedrive\documents\programacion\c++2\ejercicioclase\empleado.h
+	"Persona.h"
+	<string>
+
+1684530018 c:\users\santi\onedrive\documents\programacion\c++2\ejercicioclase\persona.h
+	<string>
+
+1684546849 source:c:\users\santi\onedrive\documents\programacion\c++2\ejercicioclase\empleado.cpp
+	"Empleado.h"
+	<string>
+	"Persona.h"
+	"Empleado.h"
+
+1684546392 source:c:\users\santi\onedrive\documents\programacion\c++2\ejercicioclase\persona.cpp
+	"Persona.h"
+	<string>
+
+1684547558 source:c:\users\santi\onedrive\documents\programacion\c++2\ejercicioclase\main.cpp
+	<iostream>
+	"Empleado.h"
+	"Vendedor.h"
+	"Persona.h"
+	<string>
+

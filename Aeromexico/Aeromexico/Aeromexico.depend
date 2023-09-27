@@ -1,0 +1,495 @@
+# depslib dependency file v1.0
+1686672441 source:c:\c++\aeromexico\aeropuerto.cpp
+	<iostream>
+	<string>
+	"Aeropuerto.h"
+
+1686672441 c:\c++\aeromexico\aeropuerto.h
+	<iostream>
+	<string>
+
+1686916000 source:c:\c++\aeromexico\pasajero.cpp
+	<iostream>
+	<string>
+	"Pasajero.h"
+
+1686905514 c:\c++\aeromexico\pasajero.h
+	<iostream>
+	<string>
+	"Persona.h"
+
+1686916066 c:\c++\aeromexico\persona.h
+	<iostream>
+	<string>
+
+1686672441 source:c:\c++\aeromexico\persona.cpp
+	<iostream>
+	<string>
+	"Persona.h"
+
+1686915613 source:c:\c++\aeromexico\tripulacion.cpp
+	<iostream>
+	<string>
+	"Tripulacion.h"
+
+1686672441 c:\c++\aeromexico\tripulacion.h
+	<iostream>
+	<string>
+	"Persona.h"
+
+1686894337 source:c:\c++\aeromexico\buscadordevuelos.cpp
+	<iostream>
+	"BuscadorDeVuelos.h"
+	<string>
+	<vector>
+	<cctype>
+
+1686893699 c:\c++\aeromexico\buscadordevuelos.h
+	"Vuelo.h"
+	<iostream>
+	<string>
+	<vector>
+
+1686672457 c:\c++\aeromexico\vuelo.h
+	<iostream>
+	<string>
+
+1686674637 source:c:\c++\aeromexico\vuelo.cpp
+	<string>
+	<iostream>
+	"Vuelo.h"
+
+1686913008 source:c:\c++\aeromexico\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	"Vuelo.h"
+	"Pasajero.h"
+	"Reserva.h"
+	"SalaVip.h"
+	"SalaVipReserva.h"
+	"BuscadorDeVuelos.h"
+	"Aeropuerto.h"
+	"Tripulacion.h"
+	"CheckIn.h"
+	"informeDeVentasDeUnVuelo.h"
+	"Cliente.h"
+	"Empleado.h"
+	"TarjetaEmbarque.h"
+	"CalidadDeVuelo.h"
+	"ClienteEmpleado.h"
+
+1686672599 c:\c++\aeromexico\reserva.h
+	<iostream>
+	<string>
+	"Vuelo.h"
+	"Pasajero.h"
+
+1686672441 source:c:\c++\aeromexico\reserva.cpp
+	<iostream>
+	<string>
+	"Reserva.h"
+
+1686897172 source:c:\c++\aeromexico\salavip.cpp
+	"SalaVip.h"
+
+1686897172 c:\c++\aeromexico\salavip.h
+	<string>
+
+1686901631 source:c:\c++\aeromexico\salavipreserva.cpp
+	"SalaVipReserva.h"
+
+1686901817 c:\c++\aeromexico\salavipreserva.h
+	"SalaVip.h"
+	"Pasajero.h"
+	<string>
+	<vector>
+
+1686904953 source:c:\c++\aeromexico\calidaddevuelo.cpp
+	<iostream>
+	"CalidadDeVuelo.h"
+
+1686904952 c:\c++\aeromexico\calidaddevuelo.h
+	"Imprimible.h"
+	<string>
+
+1686904952 c:\c++\aeromexico\imprimible.h
+
+1686905733 source:c:\c++\aeromexico\checkin.cpp
+	<iostream>
+	"checkIn.h"
+
+1686904953 c:\c++\aeromexico\checkin.h
+	"Imprimible.h"
+
+1686904953 source:c:\c++\aeromexico\cliente.cpp
+	"Cliente.h"
+
+1686904953 c:\c++\aeromexico\cliente.h
+	<iostream>
+	<string>
+	"Persona.h"
+
+1686915951 source:c:\c++\aeromexico\clienteempleado.cpp
+	"ClienteEmpleado.h"
+
+1686904953 c:\c++\aeromexico\clienteempleado.h
+	"Empleado.h"
+	"Cliente.h"
+
+1686904953 c:\c++\aeromexico\empleado.h
+	<string>
+	"Persona.h"
+
+1686904953 source:c:\c++\aeromexico\empleado.cpp
+	"Empleado.h"
+
+1686906432 source:c:\c++\aeromexico\informedeventasdeunvuelo.cpp
+	"informeDeVentasDeUnVuelo.h"
+	<iostream>
+
+1686904953 c:\c++\aeromexico\informedeventasdeunvuelo.h
+	"Imprimible.h"
+	<string>
+
+1686910244 source:c:\c++\aeromexico\tarjetaembarque.cpp
+	<iostream>
+	"tarjetaembarque.h"
+
+1686904953 c:\c++\aeromexico\tarjetaembarque.h
+	"Pasajero.h"
+	"Reserva.h"
+	"Vuelo.h"
+	"Imprimible.h"
+
+1686920901 source:c:\users\santi\downloads\aeromexico\aeromexico\aeropuerto.cpp
+	<iostream>
+	<string>
+	"Aeropuerto.h"
+
+1686920901 c:\users\santi\downloads\aeromexico\aeromexico\aeropuerto.h
+	<iostream>
+	<string>
+
+1686920901 source:c:\users\santi\downloads\aeromexico\aeromexico\buscadordevuelos.cpp
+	<iostream>
+	"BuscadorDeVuelos.h"
+	<string>
+	<vector>
+	<cctype>
+
+1686920901 c:\users\santi\downloads\aeromexico\aeromexico\buscadordevuelos.h
+	"Vuelo.h"
+	<iostream>
+	<string>
+	<vector>
+
+1686920902 c:\users\santi\downloads\aeromexico\aeromexico\vuelo.h
+	<iostream>
+	<string>
+
+1686920901 source:c:\users\santi\downloads\aeromexico\aeromexico\calidaddevuelo.cpp
+	<iostream>
+	"CalidadDeVuelo.h"
+
+1686920901 c:\users\santi\downloads\aeromexico\aeromexico\calidaddevuelo.h
+	"Imprimible.h"
+	<string>
+
+1686920901 c:\users\santi\downloads\aeromexico\aeromexico\imprimible.h
+
+1686920901 source:c:\users\santi\downloads\aeromexico\aeromexico\checkin.cpp
+	<iostream>
+	"checkIn.h"
+
+1686920901 c:\users\santi\downloads\aeromexico\aeromexico\checkin.h
+	"Imprimible.h"
+
+1686920901 source:c:\users\santi\downloads\aeromexico\aeromexico\cliente.cpp
+	"Cliente.h"
+
+1686920901 c:\users\santi\downloads\aeromexico\aeromexico\cliente.h
+	<iostream>
+	<string>
+	"Persona.h"
+
+1686920902 c:\users\santi\downloads\aeromexico\aeromexico\persona.h
+	<iostream>
+	<string>
+
+1686920901 source:c:\users\santi\downloads\aeromexico\aeromexico\clienteempleado.cpp
+	"ClienteEmpleado.h"
+
+1686920901 c:\users\santi\downloads\aeromexico\aeromexico\clienteempleado.h
+	"Empleado.h"
+	"Cliente.h"
+
+1686920901 c:\users\santi\downloads\aeromexico\aeromexico\empleado.h
+	<string>
+	"Persona.h"
+
+1686920901 source:c:\users\santi\downloads\aeromexico\aeromexico\empleado.cpp
+	"Empleado.h"
+
+1686920901 source:c:\users\santi\downloads\aeromexico\aeromexico\informedeventasdeunvuelo.cpp
+	"informeDeVentasDeUnVuelo.h"
+	<iostream>
+
+1686920901 c:\users\santi\downloads\aeromexico\aeromexico\informedeventasdeunvuelo.h
+	"Imprimible.h"
+	<string>
+
+1686920901 source:c:\users\santi\downloads\aeromexico\aeromexico\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	"Vuelo.h"
+	"Pasajero.h"
+	"Reserva.h"
+	"SalaVip.h"
+	"SalaVipReserva.h"
+	"BuscadorDeVuelos.h"
+	"Aeropuerto.h"
+	"Tripulacion.h"
+	"CheckIn.h"
+	"informeDeVentasDeUnVuelo.h"
+	"Cliente.h"
+	"Empleado.h"
+	"TarjetaEmbarque.h"
+	"CalidadDeVuelo.h"
+	"ClienteEmpleado.h"
+	"Tripulacion.h"
+
+1686920902 c:\users\santi\downloads\aeromexico\aeromexico\pasajero.h
+	<iostream>
+	<string>
+	"Persona.h"
+
+1686920902 c:\users\santi\downloads\aeromexico\aeromexico\reserva.h
+	<iostream>
+	<string>
+	"Vuelo.h"
+	"Pasajero.h"
+
+1686920902 c:\users\santi\downloads\aeromexico\aeromexico\salavip.h
+	<string>
+
+1686920902 c:\users\santi\downloads\aeromexico\aeromexico\salavipreserva.h
+	"SalaVip.h"
+	"Pasajero.h"
+	<string>
+	<vector>
+
+1686920902 c:\users\santi\downloads\aeromexico\aeromexico\tripulacion.h
+	<iostream>
+	<string>
+	"Persona.h"
+
+1686920902 c:\users\santi\downloads\aeromexico\aeromexico\tarjetaembarque.h
+	"Pasajero.h"
+	"Reserva.h"
+	"Vuelo.h"
+	"Imprimible.h"
+
+1686920902 source:c:\users\santi\downloads\aeromexico\aeromexico\pasajero.cpp
+	<iostream>
+	<string>
+	"Pasajero.h"
+
+1686920902 source:c:\users\santi\downloads\aeromexico\aeromexico\persona.cpp
+	<iostream>
+	<string>
+	"Persona.h"
+
+1686920902 source:c:\users\santi\downloads\aeromexico\aeromexico\reserva.cpp
+	<iostream>
+	<string>
+	"Reserva.h"
+
+1686920902 source:c:\users\santi\downloads\aeromexico\aeromexico\salavip.cpp
+	"SalaVip.h"
+
+1686920902 source:c:\users\santi\downloads\aeromexico\aeromexico\salavipreserva.cpp
+	"SalaVipReserva.h"
+
+1686920902 source:c:\users\santi\downloads\aeromexico\aeromexico\tarjetaembarque.cpp
+	<iostream>
+	"tarjetaembarque.h"
+
+1686920902 source:c:\users\santi\downloads\aeromexico\aeromexico\tripulacion.cpp
+	<iostream>
+	<string>
+	"Tripulacion.h"
+
+1686920902 source:c:\users\santi\downloads\aeromexico\aeromexico\vuelo.cpp
+	<string>
+	<iostream>
+	"Vuelo.h"
+
+1686920901 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\aeropuerto.cpp
+	<iostream>
+	<string>
+	"Aeropuerto.h"
+
+1686920901 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\aeropuerto.h
+	<iostream>
+	<string>
+
+1686920901 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\buscadordevuelos.cpp
+	<iostream>
+	"BuscadorDeVuelos.h"
+	<string>
+	<vector>
+	<cctype>
+
+1686920901 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\buscadordevuelos.h
+	"Vuelo.h"
+	<iostream>
+	<string>
+	<vector>
+
+1686920902 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\vuelo.h
+	<iostream>
+	<string>
+
+1686920901 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\calidaddevuelo.cpp
+	<iostream>
+	"CalidadDeVuelo.h"
+
+1686920901 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\calidaddevuelo.h
+	"Imprimible.h"
+	<string>
+
+1686920901 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\imprimible.h
+
+1686920901 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\checkin.cpp
+	<iostream>
+	"checkIn.h"
+
+1686920901 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\checkin.h
+	"Imprimible.h"
+
+1686920901 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\cliente.cpp
+	"Cliente.h"
+
+1686920901 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\cliente.h
+	<iostream>
+	<string>
+	"Persona.h"
+
+1686920902 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\persona.h
+	<iostream>
+	<string>
+
+1686920901 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\clienteempleado.cpp
+	"ClienteEmpleado.h"
+
+1686920901 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\clienteempleado.h
+	"Empleado.h"
+	"Cliente.h"
+
+1686920901 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\empleado.h
+	<string>
+	"Persona.h"
+
+1686920901 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\empleado.cpp
+	"Empleado.h"
+
+1686920901 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\informedeventasdeunvuelo.cpp
+	"informeDeVentasDeUnVuelo.h"
+	<iostream>
+
+1686920901 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\informedeventasdeunvuelo.h
+	"Imprimible.h"
+	<string>
+
+1686920901 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	"Vuelo.h"
+	"Pasajero.h"
+	"Reserva.h"
+	"SalaVip.h"
+	"SalaVipReserva.h"
+	"BuscadorDeVuelos.h"
+	"Aeropuerto.h"
+	"Tripulacion.h"
+	"CheckIn.h"
+	"informeDeVentasDeUnVuelo.h"
+	"Cliente.h"
+	"Empleado.h"
+	"TarjetaEmbarque.h"
+	"CalidadDeVuelo.h"
+	"ClienteEmpleado.h"
+	"Tripulacion.h"
+
+1686920902 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\pasajero.h
+	<iostream>
+	<string>
+	"Persona.h"
+
+1686920902 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\reserva.h
+	<iostream>
+	<string>
+	"Vuelo.h"
+	"Pasajero.h"
+
+1686920902 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\salavip.h
+	<string>
+
+1686920902 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\salavipreserva.h
+	"SalaVip.h"
+	"Pasajero.h"
+	<string>
+	<vector>
+
+1686920902 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\tripulacion.h
+	<iostream>
+	<string>
+	"Persona.h"
+
+1686920902 c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\tarjetaembarque.h
+	"Pasajero.h"
+	"Reserva.h"
+	"Vuelo.h"
+	"Imprimible.h"
+
+1686920902 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\pasajero.cpp
+	<iostream>
+	<string>
+	"Pasajero.h"
+
+1686920902 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\persona.cpp
+	<iostream>
+	<string>
+	"Persona.h"
+
+1686920902 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\reserva.cpp
+	<iostream>
+	<string>
+	"Reserva.h"
+
+1686920902 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\salavip.cpp
+	"SalaVip.h"
+
+1686920902 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\salavipreserva.cpp
+	"SalaVipReserva.h"
+
+1686920902 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\tarjetaembarque.cpp
+	<iostream>
+	"tarjetaembarque.h"
+
+1686920902 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\tripulacion.cpp
+	<iostream>
+	<string>
+	"Tripulacion.h"
+
+1686920902 source:c:\users\santi\onedrive\documents\programacion\c++2\aeromexico\aeromexico\vuelo.cpp
+	<string>
+	<iostream>
+	"Vuelo.h"
+
